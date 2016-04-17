@@ -3,8 +3,8 @@
         Date: April 2016
  Description: WAR is a card game that pits two players against each other. The deck is shuffled and then each player 
               is given half the deck. On each turn, each player draws a card and faces them against each other.
-			  The card with the higher value wins the round with ace being one, jack being 11, queen being 12 and king being 13.
-			  The player that has the most rounds won, wins!
+	      The card with the higher value wins the round with ace being one, jack being 11, queen being 12 and king being 13.
+	      The player that has the most rounds won, wins!
 */
 
 
